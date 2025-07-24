@@ -1,0 +1,21 @@
+📄 Trabalho com Arquivos
+    git add <arquivo> Adiciona um arquivo à área de staging.
+    git add . Adiciona todos os arquivos modificados.
+    git commit -m "mensagem" Salva as alterações com uma mensagem.
+    git status Mostra o estado atual do repositório.
+    git diff Mostra as diferenças entre arquivos modificados.
+
+🔄 Sincronização com Repositório Remoto
+    git pull Atualiza seu repositório local com o remoto.
+    git push Envia suas alterações para o repositório remoto.
+
+🌿 Branches (Ramificações)
+    git branch Lista todas as branches.
+    git branch <nome> Cria uma nova branch.
+    git checkout <nome> Muda para outra branch.
+    git merge <nome> Mescla outra branch na atual.
+
+🧹 Limpeza e Histórico
+    git log Mostra o histórico de commits.
+    git reset <arquivo> Remove um arquivo da área de staging.
+    git rm <arquivo> Remove um arquivo do repositório.
